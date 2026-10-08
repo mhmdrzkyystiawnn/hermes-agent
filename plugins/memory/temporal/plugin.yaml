@@ -1,0 +1,3 @@
+name: temporal
+version: 0.1.0
+description: "Temporal memory — recognises time-bound statements in conversation, resolves them to absolute dates, and recalls them near-term (personal use)."
